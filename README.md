@@ -4,4 +4,5 @@ main 및 master branch에 dino_game.c를 업로드 하였습니다.
 
 실행 방법
 gcc -o dino_game dino_game.c
+
 ./dino_game
